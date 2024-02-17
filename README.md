@@ -1,5 +1,5 @@
 ## Hey 👋, I'm Rizky Azmi!
-<a href='[https://www.linkedin.com/in/rahul-jha98](https://www.linkedin.com/in/rizky-azmi-swandy-170540228/)/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
+<a href='https://www.linkedin.com/in/rizky-azmi-swandy-170540228/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
 <a href='https://www.instagram.com/azmiazmi_/'><img align='left' alt="instagram" src="assets/instagram.svg" height='18px'/></a>
 
 I am a third-year computer science student interested in ML projects🛠️. 
