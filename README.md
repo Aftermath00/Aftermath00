@@ -1,14 +1,12 @@
 ## Hey 👋, I'm Rizky Azmi!
 <a href='[https://www.linkedin.com/in/rahul-jha98](https://www.linkedin.com/in/rizky-azmi-swandy-170540228/)/'><img align='left' alt="linkedin" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/linkedin.svg" height='18px'/></a>
-<a href='https://www.instagram.com/azmiazmi_/'><img align='left' alt="instagram" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/561d474902b59c7429ec22bb73e225696c27b202/assets/instagram.svg" height='18px'/></a>
+<a href='https://www.instagram.com/azmiazmi_/'><img align='left' alt="instagram" src="assets/instagram.svg" height='18px'/></a>
 
 I am a third-year computer science student interested in ML projects🛠️. 
 <br/>
 <br/>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" width="360px"/>
-
-<br>
 
 ### 🔨 Languages and Tools:
 <a href="https://pytorch.org/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a> 
@@ -19,16 +17,6 @@ I am a third-year computer science student interested in ML projects🛠️.
 <a href="https://firebase.google.com/" target="_blank"> <img align="left" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/firebase/firebase.svg" alt="firebase" height ="42px"/> </a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img align="left" alt="JavaScript" height ="42px"  src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/javascript/javascript.svg"> </a>
 <a href="https://nodejs.org" target="_blank"><img align="left" alt="Node.js" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/node/node.svg"></a>
-
-<br>
-
-
-### 📊 Github Stats
-<a href='https://github.com/Aftermath00/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/Aftermath00/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/Aftermath00/github-stats-transparent/output/generated/languages.svg)
-
 </a>
 
 <br>
